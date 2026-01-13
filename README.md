@@ -31,18 +31,6 @@ class BhavyaJethi:
 
 ---
 
-## 🚀 Current Project Spotlight
-
-<div align="center">
-  <a href="https://github.com/Himanshu-Dhawale/Studysync">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Himanshu-Dhawale&repo=Studysync&theme=dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&icon_color=58A6FF" alt="StudySync Repository" />
-  </a>
-</div>
-
-**StudySync** - A collaborative learning platform that revolutionizes how students study together. Built with modern web technologies and AI integration.
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
