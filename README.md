@@ -23,8 +23,8 @@ class BhavyaJethi:
     def get_skills(self):
         return {
             "languages": ["Python", "C++", "R", "SQL"],
-            "frameworks": ["Flask", "Django", "TensorFlow", "Scikit-learn"],
-            "tools": ["Git", "GitHub", "HuggingFace", "PostgreSQL"],
+            "frameworks": ["Flask", "Django", "FastAPI", TensorFlow", "Scikit-learn"],
+            "tools": ["Git", "GitHub", "HuggingFace", "PostgreSQL", "Langchain", "RAG"],
             "data_science": ["NumPy", "Pandas", "Matplotlib", "Seaborn"]
         }
 ```
@@ -46,6 +46,8 @@ class BhavyaJethi:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+
 
 ### Data Science & ML
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -58,6 +60,8 @@ class BhavyaJethi:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+[![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)](https://github.com/langchain-ai/langchain)
+[![RAG](https://img.shields.io/badge/RAG-0052CC?style=for-the-badge&logo=azure?&logoColor=white)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
 
 </div>
 
